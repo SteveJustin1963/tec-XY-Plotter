@@ -11,14 +11,14 @@ https://www.youtube.com/watch?v=T0jwdrgVBBc
 In this tutorial we will learn how to make Arduino XY Plotter Drawing machine. With Drawing Robot you can draw images on wall, panel or A4 paper. You can print pictures or print text. All required hardware for this project are listed below. We will learn how to install and use the Polargraph program for robot control. Motor drivers - Adafruit's Motoshield v1. A modern classic. It can drive two stepper motors each drawing up to 600mA and has pinouts for a servo too, so is perfect for this project.
 
 ## Required Hardware:
--1x Arduino UNO R3: http://bit.ly/2xt9MVk
--1x L293D Motor Drive Shield: http://bit.ly/2H7vmy9
--2x L293D Motor Drive IC: http://bit.ly/2J4N3jD
--2x 17 Stepper Motor: http://bit.ly/2J0xqhf
--1x MG90S Servo Motor: http://bit.ly/2JfGtuj
--1x GT2 Pulley 16 Teeth Set: http://bit.ly/2H9DoXq
--1x GT2 Rubber Belt (5M): http://bit.ly/2Lfc0tJ
--3 in 1 Jumper Wire: http://bit.ly/2J6de9E
+- 1x Arduino UNO R3: http://bit.ly/2xt9MVk
+- 1x L293D Motor Drive Shield: http://bit.ly/2H7vmy9
+- 2x L293D Motor Drive IC: http://bit.ly/2J4N3jD
+- 2x 17 Stepper Motor: http://bit.ly/2J0xqhf
+- 1x MG90S Servo Motor: http://bit.ly/2JfGtuj
+- 1x GT2 Pulley 16 Teeth Set: http://bit.ly/2H9DoXq
+- 1x GT2 Rubber Belt (5M): http://bit.ly/2Lfc0tJ
+- 3 in 1 Jumper Wire: http://bit.ly/2J6de9E
 -1x 5V 2A Power Supply
 
 ## 3D Models:
