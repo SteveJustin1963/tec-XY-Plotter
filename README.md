@@ -2,7 +2,9 @@
 
 based on Make Arduino XY Plotter Drawing Robot
 
-https://www.youtube.com/watch?v=T0jwdrgVBBc
+
+string plotter
+- https://www.youtube.com/watch?v=T0jwdrgVBBc
 
 ## Make Arduino XY Plotter Drawing Robot
 
@@ -72,3 +74,8 @@ In this tutorial we will learn how to use a high-torque stepper motor with the L
 - https://www.youtube.com/redirect?redir_token=3_P7NGl4JYxPSl7hkE1xTW2iiJ98MTU4OTA3OTc0NkAxNTg4OTkzMzQ2&q=https%3A%2F%2Fwww.hackster.io%2Fmertarduino%2Fmake-arduino-xy-plotter-drawing-robot-polargraph-b4fe36&event=video_description&v=T0jwdrgVBBc
 
 - https://www.youtube.com/redirect?redir_token=3_P7NGl4JYxPSl7hkE1xTW2iiJ98MTU4OTA3OTc0NkAxNTg4OTkzMzQ2&q=https%3A%2F%2Fwww.instructables.com%2Fid%2FXY-Plotter-Drawing-Robot-Arduino-Polargraph%2F&event=video_description&v=T0jwdrgVBBc
+
+
+more
+- https://www.instructables.com/Build-a-Simple-3D-Printed-CNC-Plotter-Machine/
+- 
